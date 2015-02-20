@@ -1,4 +1,4 @@
-#My Favorite Blogs. 
+# My Favorite Blogs. 
 
 A very small list for now, simply used to keep track of a slowly growing catalog of good blogs.
 
@@ -11,7 +11,7 @@ TODO create a tool that automates scraping these blogs
 
 [Nautilus](http://nautil.us/blog)
 
-Tech / Startups
+## Tech / Startups
 [Venture Beat](http://venturebeat.com/)
 
 ## Money
