@@ -9,5 +9,15 @@ TODO create a tool that automates scraping these blogs
 
 [Hackery, Math & Design](http://acko.net/)
 
+[Nautilus](http://nautil.us/blog)
+
+Tech / Startups
+[Venture Beat](http://venturebeat.com/)
+
 ## Money
 [The Big Picture](http://www.ritholtz.com/blog/)
+
+[Seeking Alpha](http://seekingalpha.com/)
+
+## Fashion
+[HYPEBEAST](http://hypebeast.com/)
