@@ -9,6 +9,8 @@ TODO create a tool that automates scraping these blogs
 
 [Hackery, Math & Design](http://acko.net/)
 
+[Setosa](http://setosa.io/blog/)
+
 [Nautilus](http://nautil.us/blog)
 
 ## Tech / Startups
