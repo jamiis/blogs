@@ -4,6 +4,11 @@ A very small list for now, simply used to keep track of a slowly growing catalog
 
 TODO create a tool that automates scraping these blogs
 
+## Computer Science
+
+[StitchFix](http://technology.stitchfix.com/blog/index.html)
+
+
 ## Science
 [WaitButWhy](http://waitbutwhy.com/)
 
