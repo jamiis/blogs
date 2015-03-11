@@ -3,6 +3,7 @@
 A very small list for now, simply used to keep track of a slowly growing catalog of good blogs.
 
 TODO create a tool that automates scraping these blogs
+TODO convert to json
 
 ## Computer Science
 
